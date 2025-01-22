@@ -121,5 +121,4 @@ Las pruebas pueden realizarse usando Postman o cURL. A continuación, se describ
 7. LICENCIA
 ---------------------------------------------------
 
-RedDevils™
 ===================================================
